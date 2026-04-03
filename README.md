@@ -26,8 +26,8 @@ The goal was to clean and transform raw data using Python, derive meaningful ins
 
 - **Source:** Publicly available US Hospital dataset (Kaggle)
 - **Files used:**
-  - `hospital_locations.csv` — 7,623 hospital records with location, type, status, population
-  - `Hospital_General_Information.csv` — 4,818 hospital records with ratings, ownership, emergency services
+  - `hospital_locations.csv` - 7,623 hospital records with location, type, status, population
+  - `Hospital_General_Information.csv` - 4,818 hospital records with ratings, ownership, emergency services
 
 ---
 
@@ -48,12 +48,12 @@ Key steps performed in `hospital_analysis.py`:
 
 The Power BI dashboard (`US_Hospital_Dashboard.pbix`) includes:
 
-1. **Total Hospitals** — KPI Card showing 4,818 hospitals across the US
-2. **Hospitals by State** — Top 15 states by hospital count (TX leads with 407)
-3. **Hospital Type Breakdown** — Donut chart showing General Acute Care dominates at 58%
-4. **Avg Rating by Ownership** — Physician-owned hospitals rate highest at 4.10
-5. **Emergency Services** — 93.9% of hospitals provide emergency services
-6. **Avg Population by State** — DC, CT, NJ serve the highest average populations
+1. **Total Hospitals** - KPI Card showing 4,818 hospitals across the US
+2. **Hospitals by State** - Top 15 states by hospital count (TX leads with 407)
+3. **Hospital Type Breakdown** - Donut chart showing General Acute Care dominates at 58%
+4. **Avg Rating by Ownership** - Physician-owned hospitals rate highest at 4.10
+5. **Emergency Services** - 93.9% of hospitals provide emergency services
+6. **Avg Population by State** - DC, CT, NJ serve the highest average populations
 
 ---
 
@@ -98,4 +98,4 @@ us-hospital-performance-dashboard/
 ---
 
 *Built as a personal portfolio project to demonstrate data analysis and visualization skills.*# hospital-dashboard-project
-Personal portfolio project — US Hospital Performance &amp; Operations Dashboard built using Python (Pandas) and Power BI with real hospital dataset
+Personal portfolio project - US Hospital Performance &amp; Operations Dashboard built using Python (Pandas) and Power BI with real hospital dataset
